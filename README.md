@@ -9,7 +9,7 @@ I'm a High School Software Developer currently building strong foundations in co
 - 🛠️ **Developer Tools:** Git, GitHub, VS Code, Linux CLI
 
 ### 🚀 What I'm Building Next
-- [ ] **CLI Financial Tool:** A Python command-line app to calculate interest & compound growth.
+- [x] **CLI Financial Tool:** A Python command-line app to calculate interest & compound growth.
 - [ ] **Custom Data Structures in C++:** Implementing Linked Lists and Binary Trees from scratch.
 - [ ] **Algorithm Notes Repo:** Documenting my step-by-step solutions to LeetCode problems.
 
